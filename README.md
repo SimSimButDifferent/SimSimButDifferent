@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 I’m currently working on [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript by Patrick Collins and FCC](https://github.com/SimSimButDifferent/hardhat-smartcontract-lottery-fcc)
+- 🔭 I’m currently working on [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript by Patrick Collins and FCC](https://github.com/SimSimButDifferent/hardhat-defi-fcc)
 
 - 🌱 I’m currently learning **Solidity, Javascript, Node.js, Hardhat, HTML, CSS, Python, C**
 
