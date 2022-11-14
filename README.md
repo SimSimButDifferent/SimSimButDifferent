@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon Campbell</h1>
-<h3 align="center">An aspiring Web3 and Solidity smart contract developer</h3>
+<h3 align="center">A Web3 and Solidity smart contract developer</h3>
 <br>
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
