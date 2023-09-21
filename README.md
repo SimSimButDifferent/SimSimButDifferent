@@ -4,13 +4,13 @@
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 I’m currently working on [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript by Patrick Collins and FCC](https://github.com/SimSimButDifferent/hardhat-defi-fcc)
+- 🔭 I’m currently working on [My CAD Design company website](https://dreaminreality.co.uk)
 
-- 🌱 I’m currently learning **Solidity, Javascript, Node.js, Hardhat, HTML, CSS, Python, C**
+- 🌱 I’m currently learning **Solidity, Javascript, Node.js, Hardhat, HTML, CSS, Python
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 
-- 📫 How to reach me **simeon.campbell@live.com**
+- 📫 How to reach me **simeon.campbell@live.com** --> Need a product development CAD guy? --> **dreaminrealitycad@gmail.com**
 <br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsimbutdifferent&label=Profile%20views&color=0e75b6&style=flat" alt="simsimbutdifferent" /> </p>
