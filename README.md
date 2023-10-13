@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simeon Campbell</h1>
-<h3 align="center">I Build things In 3D CAD software and Online, bringing ideas to life.</h3>
+<h3 align="center">I Build things In 3D CAD software and VsCode. I love bringing ideas to life.</h3>
 <br>
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
