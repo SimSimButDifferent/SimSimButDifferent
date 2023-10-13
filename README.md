@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Simeon Campbell</h1>
-<h3 align="center">I Build things In 3D CAD software and VsCode. I love bringing ideas to life.</h3>
+<h3 align="center">I Build things In 3D CAD software and VsCode with the help of ChatGpt. I love bringing ideas to life.</h3>
 <br>
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
 - 🔭 I’m currently working on [My CAD Design company website](https://dreaminreality.co.uk)
 
-- 🌱 I’m currently learning **Solidity, Javascript, Node.js, Hardhat, HTML, CSS, Python
+- 🌱 I’m currently learning **React JS, Javascript, Node.js, Solidity, Hardhat, HTML, CSS, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 
