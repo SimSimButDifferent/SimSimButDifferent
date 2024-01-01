@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [My CAD Design company website](https://dreaminreality.co.uk)
 
-- 🌱 I’m currently learning **React JS, Javascript, Node.js, Solidity, Hardhat, HTML, CSS, Python** With my very own **web3 refresher course** created with the help of ChatGpt. [Check out my Gitbook to follow the progress.](simsimbutdifferent.gitbook.io/project_different)
+- 🌱 I’m currently learning **React JS, Javascript, Node.js, Solidity, Hardhat, Tailwind CSS** With my very own **web3 refresher course** created with the help of ChatGpt. [Check out my Gitbook to follow the progress.](simsimbutdifferent.gitbook.io/project_different)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 
