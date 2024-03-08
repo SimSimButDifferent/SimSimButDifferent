@@ -4,16 +4,16 @@
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 I’m currently working on [My CAD Design company website](https://dreaminreality.co.uk)
+- 🔭 I’m currently working on my very own **Prompt web3 course** created with the help of ChatGpt. [Check out my Gitbook to follow the progress.](https://simsimbutdifferent.gitbook.io/prompt_web3/)
 
-- 🌱 I’m currently learning **React JS, Javascript, Node.js, Solidity, Hardhat, Tailwind CSS** With my very own **web3 refresher course** created with the help of ChatGpt. [Check out my Gitbook to follow the progress.](simsimbutdifferent.gitbook.io/project_different)
+- 🌱 My skills include: **React JS, Javascript, Node.js, Solidity, Hardhat, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 
-- 📫 How to reach me **simeon.campbell@live.com** --> Need a product development CAD guy? --> **dreaminrealitycad@gmail.com**
+- 📫 How to reach me **simeon.campbell@live.com** --> Need a product development CAD guy? --> **dreaminrealitycad@gmail.com** --> [DreamInReality website](https://dreaminreality.co.uk)
 <br>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=simsimbutdifferent&label=Profile%20views&color=0e75b6&style=flat" alt="simsimbutdifferent" /> </p>
+<!-- <p align="left" style="padding:4px"> <img src="https://komarev.com/ghpvc/?username=simsimbutdifferent&label=Profile%20views&color=0e75b6&style=flat" alt="simsimbutdifferent" /> </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=simsimbutdifferent" alt="simsimbutdifferent" /></a> </p> -->
 
