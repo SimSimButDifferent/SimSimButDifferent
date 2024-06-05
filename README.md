@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Simeon Campbell</h1>
-<h3 align="center">I Build things In 3D CAD software and VsCode with the help of ChatGpt. I love bringing ideas to life.</h3>
+<h3 align="center">I Build things. I love bringing ideas to life.</h3>
 <br>
 
 <img align="right" alt="Coder celebration" width="400" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 I’m currently working on my very own **Prompt web3 course** created with the help of ChatGpt. [Check out my Gitbook to follow the progress.](https://simsimbutdifferent.gitbook.io/prompt_web3/)
+- 🔭 I’m currently working through my own **Prompt web3 course** that I got chatGpt to create for me. [Check out my Gitbook to follow the progress.](https://simsimbutdifferent.gitbook.io/prompt_web3/)
+- Currently building a [UniswapV3 arbitrage bot.](https://github.com/SimSimButDifferent/L7-UniV3FlashSwapDualArbBot)
 
-- 🌱 My skills include: **React JS, Javascript, Node.js, Solidity, Hardhat, Tailwind CSS**
+- 🌱 My skills include: **Javascript, Node.js, Solidity, Hardhat, Foundry, React JS, Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 
