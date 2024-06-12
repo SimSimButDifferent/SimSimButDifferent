@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simeon Campbell</h1>
+<h1 align="center">Hi 👋, I'm Sim</h1>
 <h3 align="center">I Build things. I love bringing ideas to life.</h3>
 <br>
 
