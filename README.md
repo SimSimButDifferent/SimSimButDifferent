@@ -10,7 +10,7 @@
 - Currently building a [UniswapV3 arbitrage bot.](https://github.com/SimSimButDifferent/L7-UniV3FlashSwapDualArbBot)
 - 🌱 My skills include: Javascript, Node.js, Solidity, Hardhat, Foundry, React JS, Tailwind CSS
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
-- 📫 How to reach me simeon.campbell@live.com --> Need a product development CAD guy? --> dreaminrealitycad@gmail.com --> [DreamInReality website](https://dreaminreality.co.uk)
+- 📫 How to reach me simsimbutdev@gmail.com --> Need a product modelled in 3D? --> dreaminrealitycad@gmail.com --> [DreamInReality website](https://dreaminreality.co.uk)
 </p>
 <br>
 <h3 align="center">Connect with me:</h3>
