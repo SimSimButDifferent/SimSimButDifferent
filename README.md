@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   
-- 🔭 I’m currently working through my own Prompt web3 course that I got chatGpt to create for me. [Check out my Gitbook to follow the progress.](https://simsimbutdifferent.gitbook.io/prompt_web3/)
+- 🔭 I’m currently Freelancing, offering services in: Solidity Smart contract development and Web3 content writing.
 - Currently building a [UniswapV3 arbitrage bot.](https://github.com/SimSimButDifferent/L7-UniV3FlashSwapDualArbBot)
 - 🌱 My skills include: Javascript, Node.js, Solidity, Hardhat, Foundry, React JS, Tailwind CSS
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
