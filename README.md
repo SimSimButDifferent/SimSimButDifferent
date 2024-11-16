@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sim</h1>
-<h3 align="center">I Build things. I love bringing ideas to life.</h3>
+<h3 align="center">I Build things.</h3>
 <p align="center">
 <br>
 <img align="center" alt="Coder celebration" width="400" padding="4" src ="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif">
 </p>
 <p align="center">
   
-- 🔭 I’m currently Freelancing, offering services in: Solidity Smart contract development and Web3 content writing.
-- Currently building a [UniswapV3 arbitrage bot.](https://github.com/SimSimButDifferent/L7-UniV3FlashSwapDualArbBot)
-- 🌱 My skills include: Javascript, Node.js, Solidity, Hardhat, Foundry, React JS, Tailwind CSS
+- 🔭 I’m currently Freelancing, offering services in: Solidity Smart contract / web2 / web3 development.
+- Currently building an [Ai Lesson Planner.](https://ailessonplanner.xyz)
+- 🌱 My skills include: Javascript, Node.js, Solidity, Hardhat, Foundry, React JS, Tailwind CSS, HTML, CSS.
 - 👨‍💻 All of my projects are available at [https://github.com/SimSimButDifferent?tab=repositories](https://github.com/SimSimButDifferent?tab=repositories)
 - 📫 How to reach me simsimbutdev@gmail.com --> Need a product modelled in 3D? --> dreaminrealitycad@gmail.com --> [DreamInReality website](https://dreaminreality.co.uk)
 </p>
